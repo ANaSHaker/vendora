@@ -1,0 +1,29 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    missing_required_param: error
+    missing_return: error
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+    - lib/core/di/injection.config.dart
+
+linter:
+  rules:
+    prefer_single_quotes: true
+    avoid_print: true
+    prefer_const_constructors: true
+    prefer_const_declarations: true
+    prefer_final_fields: true
+    prefer_final_locals: true
+    unnecessary_const: true
+    unnecessary_new: true
+    use_named_constants: true
+    avoid_unnecessary_containers: true
+    sized_box_for_whitespace: true
+    use_decorated_box: true
+    prefer_if_null_operators: true
+    avoid_redundant_argument_values: true
+    sort_child_properties_last: true
+    use_super_parameters: true

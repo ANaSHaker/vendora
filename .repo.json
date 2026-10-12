@@ -1,0 +1,6 @@
+{
+  "name": "vendora",
+  "description": "Multi-tenant POS & commerce SaaS in Flutter: keyboard-first POS, multi-branch inventory, reports, QR digital menu and online store. One codebase for Windows, Android, iOS and web. Clean architecture, Cubit, go_router, get_it.",
+  "topics": ["flutter", "dart", "pos", "point-of-sale", "saas", "clean-architecture", "bloc", "inventory-management", "digital-menu", "flutter-web"],
+  "homepage": null
+}

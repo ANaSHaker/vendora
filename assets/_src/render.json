@@ -1,0 +1,152 @@
+{
+  "outDir": "..",
+  "brand": {
+    "name": "Vendora",
+    "tagline": "POS, inventory, digital menu and online store in one Flutter codebase — desktop, mobile and web.",
+    "accent": "#2563EB",
+    "accent2": "#0EA5E9",
+    "logo": "icon.png",
+    "dark": true
+  },
+  "images": [
+    {
+      "type": "banner",
+      "file": "banner.png",
+      "kicker": "SaaS POS platform · Flutter",
+      "subtitle": "POS, inventory, digital menu and online store — one Flutter codebase for desktop, mobile and web.",
+      "screens": [
+        "D:/shaker-github/_work/vendora-web/shots/m_pos_3.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_dash.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_menu_6.png"
+      ],
+      "devices": [
+        "android",
+        "iphone",
+        "android"
+      ],
+      "chips": [
+        "Flutter",
+        "Clean Architecture",
+        "Cubit",
+        "Desktop · Mobile · Web"
+      ]
+    },
+    {
+      "type": "web",
+      "file": "pos-desktop.png",
+      "title": "Desktop POS terminal — keyboard-first checkout",
+      "screens": [
+        "D:/shaker-github/_work/vendora-web/shots/d_pos_cart.png"
+      ]
+    },
+    {
+      "type": "web",
+      "file": "dashboard-desktop.png",
+      "title": "Live dashboard — sales, top products, top customers",
+      "screens": [
+        "D:/shaker-github/_work/vendora-web/shots/d_dash.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_dash.png"
+      ]
+    },
+    {
+      "type": "web",
+      "file": "dashboard-dark-blue.png",
+      "title": "Dark mode + per-vendor brand color",
+      "screens": [
+        "D:/shaker-github/_work/vendora-web/shots/d_dash_dark.png"
+      ]
+    },
+    {
+      "type": "web",
+      "file": "dashboard-rtl.png",
+      "title": "Full Arabic RTL (5 languages)",
+      "screens": [
+        "D:/shaker-github/_work/vendora-web/shots/d_dash_ar.png"
+      ]
+    },
+    {
+      "type": "web",
+      "file": "orders-desktop.png",
+      "title": "Orders across POS, online and menu channels",
+      "screens": [
+        "D:/shaker-github/_work/vendora-web/shots/d_orders.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_orders.png"
+      ]
+    },
+    {
+      "type": "web",
+      "file": "products-desktop.png",
+      "title": "Catalog with import / export",
+      "screens": [
+        "D:/shaker-github/_work/vendora-web/shots/d_products.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_products.png"
+      ],
+      "sideDevice": "android"
+    },
+    {
+      "type": "web",
+      "file": "payment-desktop.png",
+      "title": "Checkout: cash, card or transfer with live change",
+      "screens": [
+        "D:/shaker-github/_work/vendora-web/shots/d_pos_pay.png"
+      ]
+    },
+    {
+      "type": "gallery",
+      "file": "mobile-screens.png",
+      "title": "The same app on a phone",
+      "screens": [
+        "D:/shaker-github/_work/vendora-web/shots/m_dash.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_pos_3.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_pos_4.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_orders.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_products.png"
+      ],
+      "device": "mixed",
+      "cols": 5
+    },
+    {
+      "type": "feature",
+      "file": "feature-digital-menu.png",
+      "kicker": "Signature feature",
+      "title": "QR digital menu in 8 designs",
+      "points": [
+        "Built from the same product catalog",
+        "Vendor picks a design, colors and logo",
+        "Public link + QR code + PDF export",
+        "Served from Firestore, no login needed"
+      ],
+      "screens": [
+        "D:/shaker-github/_work/vendora-web/shots/m_menu_3.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_menu_6.png"
+      ],
+      "devices": [
+        "iphone",
+        "android"
+      ]
+    },
+    {
+      "type": "gallery",
+      "file": "menu-themes.png",
+      "title": "Digital menu designs (same data, different theme)",
+      "screens": [
+        "D:/shaker-github/_work/vendora-web/shots/m_menu_1.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_menu_2.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_menu_3.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_menu_5.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_menu_6.png",
+        "D:/shaker-github/_work/vendora-web/shots/m_menu_8.png"
+      ],
+      "device": "iphone",
+      "cols": 6
+    },
+    {
+      "type": "web",
+      "file": "menu-builder-desktop.png",
+      "title": "Menu builder with live preview",
+      "screens": [
+        "D:/shaker-github/_work/vendora-web/shots/d_menu.png"
+      ]
+    }
+  ]
+}
